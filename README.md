@@ -12,6 +12,7 @@
 🎯 Objective
 
 To design and implement a scalable data warehouse that transforms raw data into structured, reliable insights for business decision-making.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📌 Specifications
 
@@ -26,10 +27,12 @@ Covers data modeling, ETL development, storage design, and analytical query supp
 
 Documentation:
 Includes schema design, ETL workflow details, data dictionary, and system architecture documentation.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 BI: Analytics & Reporting – Objective
 
 To provide meaningful insights through dashboards and analytical reports focused on customer behavior, business trends, and performance analysis.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📜 License
 
