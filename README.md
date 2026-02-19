@@ -1,9 +1,13 @@
 📊 Data Warehouse & Analytics Project
 
 1)This project demonstrates the design and implementation of a Data Warehouse using SQL Server.
+
 2)It includes data extraction, transformation, and loading (ETL) processes to prepare structured data for analysis.
+
 3)A star schema was implemented with fact and dimension tables to support analytical queries.
+
 4)The project focuses on data modeling, query optimization, and generating insights for reporting and decision-making.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 Objective
 
